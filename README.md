@@ -2,7 +2,7 @@
 
 ### Telegram: https://t.me/MaxAPYofficial
 ### Website: https://maxapy.finance/
-### Twitter: https://twitter.com/home
+### Twitter: https://mobile.twitter.com/maxapyfinance
 ### [Link to Dapp](https://app.maxapy.finance/dashboard)
 ### [Link to Whitepaper](https://maxapy.gitbook.io/maxapy/)
 ### [Link to Audited by Rugfreecoins](https://github.com/Rugfreecoins/Smart-Contract-Audits/blob/main/MaxAPY%20Token%20Audit.pdf)
