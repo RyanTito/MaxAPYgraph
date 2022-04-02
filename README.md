@@ -13,10 +13,11 @@ Bscscan: https://bscscan.com/address/0xcb6CD204D783DC8d66896A6DEf5867d332228D7b#
 ### Contract Address: 0xcb6CD204D783DC8d66896A6DEf5867d332228D7b
 
 1. CyberScope KYC:
+2. Pinksale KYC:
 
 ![alt tag](https://github.com/coinscope-co/kyc/blob/main/mapy/kyc.png)
 
-2. Pinksale KYC:
+
 
 Audited by Rugfreecoins
 
