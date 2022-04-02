@@ -17,10 +17,6 @@ Bscscan: https://bscscan.com/address/0xcb6CD204D783DC8d66896A6DEf5867d332228D7b#
 
 ![alt tag](https://github.com/coinscope-co/kyc/blob/main/mapy/kyc.png)
 
-
-
-Audited by Rugfreecoins
-
   
 
 
